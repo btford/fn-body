@@ -1,6 +1,6 @@
 {
   "name": "fn-body",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "given a function, get its body as a string",
   "main": "fn.js",
   "scripts": {
