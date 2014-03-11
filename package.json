@@ -1,0 +1,11 @@
+{
+  "name": "fn-body",
+  "version": "0.0.0",
+  "description": "given a function, get its body as a string",
+  "main": "fn.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Brian Ford",
+  "license": "MIT"
+}
